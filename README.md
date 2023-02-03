@@ -1,5 +1,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=shenguanjiejie&hide=CSS,HTML,PureBasic,Ruby&show_icons=true&bg_color=30,f96443,c04e95&title_color=fff&text_color=fff&layout=compact)](https://github-readme-stats-ruby-one.vercel.app)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shenguanjiejie&show_icons=true&bg_color=30,f96443,c04e95&title_color=fff&text_color=fff)](https://github-readme-stats-ruby-one.vercel.app)
 
 <!--
